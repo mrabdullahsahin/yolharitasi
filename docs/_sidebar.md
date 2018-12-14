@@ -51,6 +51,6 @@
 
 * [Etkinlikler ve Topluluklar]()
 * [Tavsiye Yazılar]()
-* [Sormak İstediğin Bir Soru Mu Var?]()
+* [Sormak İstediğin Bir Soru Mu Var?](sormakistediginbirsorumuvar.md)
 * [Katkıda Bulunanlar]()
 * [Güncelleme Geçmişi](guncellemegecmisi.md)
