@@ -1,7 +1,7 @@
 * Giriş
 
-  * [Önsöz](onsoz.md)
-  * [Her Daim Hatırlanması Gerekenler]()
+  * [Önsöz](giris/onsoz.md)
+  * [Her Daim Hatırlanması Gerekenler](giris/herdaimhatirlanmasigerekenler.md)
   * [Mühendislik Nedir?]()
   * [Nereden Başlamalıyım?]()
   * [Geç mi kaldım?]()
