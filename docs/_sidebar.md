@@ -50,7 +50,7 @@
     * [Başlamadan Önce Bilinmesi Gerekenler]()
 
 * [Etkinlikler ve Topluluklar]()
-* [Tavsiye Yazılar]()
+* [Tavsiye Yazılar](tavsiyeyazilar.md)
 * [Sormak İstediğin Bir Soru Mu Var?](sormakistediginbirsorumuvar.md)
 * [Katkıda Bulunanlar](katkidabulunanlar.md)
 * [Güncelleme Geçmişi](guncellemegecmisi.md)

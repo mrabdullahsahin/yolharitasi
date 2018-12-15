@@ -1,6 +1,6 @@
 > Son Güncelleme: 13.12.2018
 
-## [0.5.8]() (15.12.2018)
+## [0.6.9]() (15.12.2018)
 
 #### Yapılan Değişiklikler
 
@@ -8,6 +8,7 @@
 * Her daim hatırlanması gerekenler sayfası yayınlandı.
 * Diğer sayfalarda gerekli düzenlemeler yapıldı.
 * Katkıda Bulunanlar sayfası yayınlandı.
+* Tavsiye Yazılar sayfası yayınlandı.
 
 ## [0.2.5]() (14.12.2018)
 
