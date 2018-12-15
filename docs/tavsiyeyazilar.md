@@ -27,3 +27,4 @@ Bu sayfada, tecrübe veya bilgi olarak olsun bizleri geliştirip katkıda buluna
 * [Tazedirekt’e ne oldu? - Umut Gökbayrak](https://medium.com/@umutgokbayrak/tazedirekt-e-ne-oldu-41365e8a140)
 * [Bilgisayar Mühendisliği öğrencileri için 10 tavsiye - Erman Taylan](https://medium.com/@etaylan/bilgisayar-mühendisliği-öğrencileri-için-10-tavsiye-d480fd66ee7f)
 * [Hız Algısı ile Deneyim Tasarımı - Rıza Selçuk Saydam](https://medium.com/turkce/hız-algısı-ile-deneyim-tasarımı-717fd3d49868)
+* [Yazılımcılar İçin İş Bulma ve İşe Girme Kılavuzu - Celil Bozkurt](https://medium.com/bir-sıfır/yazilimcilar-icin-is-bulma-ve-ise-girme-kilavuzu-63cc2a5cb983)
