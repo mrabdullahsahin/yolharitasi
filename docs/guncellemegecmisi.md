@@ -1,6 +1,6 @@
 > Son Güncelleme: 13.12.2018
 
-## [0.7.11]() (15.12.2018)
+## [0.7.27]() (15.12.2018)
 
 #### Yapılan Değişiklikler
 
@@ -11,6 +11,7 @@
 * Tavsiye Yazılar sayfası yayınlandı.
 * Etkinlikle Topluluklar sayfası yayınlandı.
 * Küçük hatalar giderildi.
+* Yeni kaynaklar eklendi.
 
 ## [0.2.5]() (14.12.2018)
 

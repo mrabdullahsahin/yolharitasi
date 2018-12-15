@@ -15,12 +15,21 @@ Bu sayfada, etkinlikler, topluluklar, slack kanalları, discord kanalları ve da
 * [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 * [ODTÜ Programlama Yarışmaları](https://yarisma.cclub.metu.edu.tr)
 
-## Yazılıma Dair Siteler
+## Algoritma Soruları
 
 * [Coderbyte](https://www.coderbyte.com)
 * [LeetCode](https://leetcode.com)
 * [HackerRank](https://www.hackerrank.com)
+
+## Kaynak Listeleri
+
 * [Türkçe Kaynaklar Listesi](https://github.com/fatihacet/turkcekaynaklar-com)
+
+## Eğitim Siteleri
+
+* [Microsoft Açık Akademi](https://www.acikakademi.com/portal/egitimler/)
+* [Turkcell Geleceği Yazanlar](https://api.turkcell.com.tr)
+* [Sanalkurs](http://sanalkurs.net)
 
 ## Yazılımcı Kanalları
 
