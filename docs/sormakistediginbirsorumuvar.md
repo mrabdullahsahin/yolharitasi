@@ -2,7 +2,7 @@
 
 ## Sormak İstediğin Bir Soru Mu Var?
 
-Soru sorarken edep çerçevesinde sormaya özen gösterelim. Soru sormak için bu formu doldurmanız yeterli.
+Soru sorarken edep ve saygı çerçevesinde sormaya özen gösterelim. Soru sormak için bu formu doldurmanız yeterli.
 
 Sorularınızda yazım kurallarına dikkat etmelisiniz. Yoksa cevap alamazsınız. Ayrıca siteye göz atın lütfen. Hep aynı sorulara, aynı yanıtları vermeyelim.
 
@@ -12,4 +12,4 @@ Soru sormadan önce bilinmesi gerekenler:
 * Soru-cevap için önemli olan soruların ciddiyeti ve sorunun kendi kendini tekrar etmemesi.
 * Azarlar şekilde "Soruya cevap versene sen", "acil cevap ver" gibi bir yaklaşımı bulunan sorular cevaplanmayacaktır.
 * Bu proje hiçbir şekilde kâr amacı gütmemektedir.
-* Bu site doküman tamamen gönüllülük esasına dayanarak hazırlanıp, güncellenmektedir.
+* Bu doküman tamamen gönüllülük esasına dayanarak hazırlanıp, güncellenmektedir.

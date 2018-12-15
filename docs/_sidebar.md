@@ -1,6 +1,6 @@
 * Giriş
 
-  * [Önsöz](/)
+  * [Önsöz](onsoz.md)
   * [Her Daim Hatırlanması Gerekenler]()
   * [Mühendislik Nedir?]()
   * [Nereden Başlamalıyım?]()
