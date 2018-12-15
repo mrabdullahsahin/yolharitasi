@@ -49,7 +49,7 @@
 
     * [Başlamadan Önce Bilinmesi Gerekenler]()
 
-* [Etkinlikler, Topluluklar ve Daha Fazlası](etkinliklertoplulukar.md)
+* [Etkinlikler, Topluluklar ve Daha Fazlası](etkinliklertopluluklar.md)
 * [Tavsiye Yazılar](tavsiyeyazilar.md)
 * [Sormak İstediğin Bir Soru Mu Var?](sormakistediginbirsorumuvar.md)
 * [Katkıda Bulunanlar](katkidabulunanlar.md)
