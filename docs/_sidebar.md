@@ -3,7 +3,7 @@
   * [Önsöz](giris/onsoz.md)
   * [Her Daim Hatırlanması Gerekenler](giris/herdaimhatirlanmasigerekenler.md)
   * [Mühendislik Nedir?]()
-  * [Nereden Başlamalıyım?]()
+  * [Nereden Başlamalıyım?](giris/neredenbaslamaliyim.md)
   * [Geç mi kaldım?]()
 
 * Yol Haritası

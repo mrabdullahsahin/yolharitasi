@@ -34,6 +34,7 @@ Bu sayfada, etkinlikler, topluluklar, slack kanalları, discord kanalları ve da
 
 ## Kaynak Listeleri
 
+* [TIOBE](https://www.tiobe.com/tiobe-index/)
 * [Türkçe Kaynaklar Listesi](https://github.com/fatihacet/turkcekaynaklar-com)
 
 ## Eğitim Siteleri
