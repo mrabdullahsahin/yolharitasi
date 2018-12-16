@@ -1,5 +1,11 @@
 > Son Güncelleme: 13.12.2018
 
+## [0.7.74]() (16.12.2018)
+
+#### Yapılan Değişiklikler
+
+* Etkinlikler ve Topluluklar sayfasına yeni kaynaklar eklendi.
+
 ## [0.7.27]() (15.12.2018)
 
 #### Yapılan Değişiklikler
