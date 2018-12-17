@@ -7,7 +7,7 @@
 
 * Yol Haritası
 
-  * [Mezun Oldun, Peki Ya Sonra]()
+  * [Mezun Oldun, Peki Ya Sonra](yolharitasi/mezunoldun.md)
   * [Web Geliştiricisi Olmak İsteyenler için Yol Haritası]()
   * [Mobil Uygulama Geliştiricisi Olmak İsteyenler için Yol Haritası]()
   * [Oyun Geliştiricisi Olmak İsteyenler için Yol Haritası]()

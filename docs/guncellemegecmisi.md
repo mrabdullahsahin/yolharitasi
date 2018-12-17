@@ -5,6 +5,7 @@
 #### Yapılan Değişiklikler
 
 * Geç Mi Kaldım sayfası yayınlandı.
+* Mezun Oldun, Peki Ya Sonra sayfası yayınlandı.
 * İçerik güncellendi.
 
 ## [0.8.76]() (16.12.2018)
