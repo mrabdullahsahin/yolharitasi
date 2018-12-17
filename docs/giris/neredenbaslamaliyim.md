@@ -1,4 +1,4 @@
-> Son Güncelleme: 15.12.2018
+> Son Güncelleme: 16.12.2018
 
 ## Nereden Başlamalıyım
 
@@ -29,9 +29,12 @@ Yazının özeti niteliğinde yol haritası ise şu şekilde;
 
 2. Python
   * [Python Programlama Dili](https://belgeler.yazbel.com/python-istihza/)
+  * [Stanford Üniversitesi CS41: The Python Programming](https://stanfordpython.com/#lecture)
 
 3. Yazılım Problemleri Çözmek
   * Etkinlikler, Topluluklar ve Daha Fazlası sayfasında bulunan Algoritma Soruları sekmesinde bulunan sitelerden herhangi birinden algoritma soruları çözerek algoritma kurma ve geliştirme yeteneğinizi geliştirebilirsiniz.
 
+Diğer Kaynaklar:
+* [Hangi Programlama Dil ile Başlamalıyım](http://www.borakasmer.com/hangi-programlama-dili-ile-baslamaliyim/)
 
 **Not: Burada bulunan adımları tek tek uyguladığın taktirde faydasını görebilirsin. Akış diyagramı aşaması belki sana gereksiz gibi gelebilir emin ol hemen hemen Türkiye'de yazılım veya bilgisayar bölümünü okuyan herkes o dersi aldı. Burada belirttiğim adımlar üniversitede uygulanan adımlardır.**

@@ -4,7 +4,7 @@
   * [Her Daim Hatırlanması Gerekenler](giris/herdaimhatirlanmasigerekenler.md)
   * [Mühendislik Nedir?]()
   * [Nereden Başlamalıyım?](giris/neredenbaslamaliyim.md)
-  * [Geç mi kaldım?]()
+  * [Geç mi kaldım?](giris/gecmikaldim.md)
 
 * Yol Haritası
 

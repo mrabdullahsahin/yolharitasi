@@ -1,4 +1,11 @@
-> Son Güncelleme: 13.12.2018
+> Son Güncelleme: 17.12.2018
+
+## [0.9.79]() (17.12.2018)
+
+#### Yapılan Değişiklikler
+
+* Geç Mi Kaldım sayfası yayınlandı.
+* İçerik güncellendi.
 
 ## [0.8.76]() (16.12.2018)
 
