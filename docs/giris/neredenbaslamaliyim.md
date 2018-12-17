@@ -1,4 +1,4 @@
-> Son Güncelleme: 16.12.2018
+> Son Güncelleme: 17.12.2018
 
 ## Nereden Başlamalıyım
 
@@ -6,8 +6,11 @@ Yazılım alanına giriş yapmak isteyen hemen hemen herkesin kafasında aynı s
 
 İlk irdelememiz gereken madde öğrenmeyi öğrenmek. Burada yazılım öğrenirken çok fazla yöntem mevcut. Bunlardan size en uygun olanını veya en zevk aldığınızı seçerseniz süreçte sizin için daha iyi olacaktır. Yöntemler ise şunlar;
 
-* Kitap ile
-* Video ile
+* Bir kitap aracılığı ile öğrenme,
+* Video kaynaklar aracılığı ile öğrenme,
+* Birilerinden destek alarak öğrenme,
+* Dökumantasyonu baştan okuyup öğrenme,
+* Bir proje aracılığı ile öğrenme, gibi yöntemler mevcut.(Çoğaltılabilir şu an aklıma gelenler bunlar.)
 
 Bu yöntemlerden hangisini seçerseniz seçin yazılım öğrenmek için temel şart **uygulama**. Yani öğrendiklerini hemen ve bol bol uygulaman gerekiyor yoksa dil öğrenmek gibi kısa süre sonra unutursun ve bu alanda uzman olman pekde mümkün olmaz.
 
