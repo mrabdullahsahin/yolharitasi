@@ -1,4 +1,4 @@
-> Son Güncelleme: 15.12.2018
+> Son Güncelleme: 17.12.2018
 
 ## Tavsiye Yazılar
 
@@ -37,4 +37,5 @@ Bu sayfada, tecrübe veya bilgi olarak olsun bizleri geliştirip katkıda buluna
 * [Nereden başladım - Hana Kamer](https://hanakamer.com/nereden-başladım-caaff48ce6e9)
 * [Yazılıma ve Programlamaya Yeni Başlayanlar için Tavsiyeler - Deniz Kılınç](https://medium.com/@denizkilinc/yazılıma-ve-programlamaya-yeni-başlayanlar-için-tavsiyeler-fdd33a02361f)
 * [Yazılıma nasıl başlarım? - Burak Gür](https://medium.com/@burakgur/yazılıma-nasıl-başlarım-aaf2c0b6957a)
-* [Yazılımcı olmak isteyenlerin sık sorduğu sorulara cevaplar - Talha Ocakçı](https://medium.com/@talhaocakci/yazılımcı-olmak-isteyenlerin-sık-sorduğu-sorulara-cevaplar-d34aaabae948) 
+* [Yazılımcı olmak isteyenlerin sık sorduğu sorulara cevaplar - Talha Ocakçı](https://medium.com/@talhaocakci/yazılımcı-olmak-isteyenlerin-sık-sorduğu-sorulara-cevaplar-d34aaabae948)
+* [Verimlik Çalışmak - 101 - Alper İskender](https://alperiskender.com/verimli-calismak-101/)
