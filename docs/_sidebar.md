@@ -10,7 +10,7 @@
   * [Mezun Oldun, Peki Ya Sonra](yolharitasi/mezunoldun.md)
   * [Web Geliştiricisi Olmak İsteyenler için Yol Haritası](yolharitasi/webdeveloper)
   * [Mobil Uygulama Geliştiricisi Olmak İsteyenler için Yol Haritası](yolharitasi/mobiledeveloper.md)
-  * [Oyun Geliştiricisi Olmak İsteyenler için Yol Haritası]()
+  * [Oyun Geliştiricisi Olmak İsteyenler için Yol Haritası](yolharitasi/gamedeveloper.md)
   * [Arayüz Tasarımcısı ve Kullanıcı Deneyimi Tasarımcısı Olmak İsteyenler için Yol Haritası]()
 
 * Konuma Göre Tavsiyeler

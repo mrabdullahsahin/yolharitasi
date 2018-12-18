@@ -1,6 +1,6 @@
 > Son Güncelleme: 18.12.2018
 
-## [0.16.128]() (18.12.2018)
+## [0.17.131]() (18.12.2018)
 
 #### Yapılan Değişiklikler
 
@@ -11,6 +11,7 @@
 * Üniversiteye gitmeden yazısı yayınlandı.
 * Web geliştirici yazısı yayınlandı.
 * Mobil geliştirici yazısı yayınlandı.
+* Oyun geliştiricisi yazısı yayınlandı.
 
 ## [0.9.111]() (17.12.2018)
 
