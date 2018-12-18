@@ -1,4 +1,10 @@
-> Son Güncelleme: 17.12.2018
+> Son Güncelleme: 18.12.2018
+
+## [0.10.114]() (18.12.2018)
+
+#### Yapılan Değişiklikler
+
+* Üniversite İsmi/Bölümü Çok mu Önemli yayınlandı.
 
 ## [0.9.111]() (17.12.2018)
 

@@ -1,4 +1,4 @@
-> Son Güncelleme: 17.12.2018
+> Son Güncelleme: 18.12.2018
 
 Bu sayfada, etkinlikler, topluluklar, slack kanalları, discord kanalları ve daha fazlası yer almaktadır. Eğer seninde önerdiğin topluluk, etkinlik veya farklı bir şey mevcut ise bu formu doldurarak bize gönderebilirsin, gerekli inceleme yapıldıktan sonra yazı burada yayınlanacaktır.
 
@@ -86,6 +86,7 @@ Bu sayfada, etkinlikler, topluluklar, slack kanalları, discord kanalları ve da
 * [Yalin Kod](https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ/videos)
 * [Fatih Arslan](https://www.youtube.com/channel/UCbUr0322a84OUtaqtcflYmA/videos)
 * [edelkrone Teknik Paylaşımlar](https://www.youtube.com/channel/UC8i4aJW4SNCT28ZNgbL55JA/videos)
+* [Late Night Muhabbetleri](https://www.youtube.com/channel/UCjVMKSrhru8KSirbfzzFHpw/videos)
 
 ## Yazılımcı Kanalları
 
@@ -94,3 +95,8 @@ Bu sayfada, etkinlikler, topluluklar, slack kanalları, discord kanalları ve da
 * [Ruby Türkiye](https://rubytr.slack.com)
 * [Nsİstanbul](http://www.nsistanbul.com)
 * [Software Development Turkey](https://discord.gg/CAqXrFe)
+
+## Podcast
+
+* [Junior Talks](https://soundcloud.com/junior-talks)
+* [Swifthane](http://swifthane.com)
