@@ -35,7 +35,7 @@
 * Sıkça Sorulan Sorular
 
     * [Üniversite İsmi/Bölümü Çok mu Önemli?](sss/universiteismionemli.md)
-    * [Bu Bölümün İş İmkanı Nedir?]()
+    * [Bu Bölümün/Alanın İş İmkanı Nedir?](sss/isimkani.md)
     * [İngilizce Öğrenmeseniz Olur Mu?](sss/ingilizce.md)
     * [Üniversite Mezunu Olmak Neden Bir Şey İfade Etmiyor?](sss/universitemezunu.md)
     * [Üniversiteye Gitmeden Bu İşi Yapabilir Miyim?]()
