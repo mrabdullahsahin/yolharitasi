@@ -1,11 +1,12 @@
 > Son Güncelleme: 18.12.2018
 
-## [0.11.118]() (18.12.2018)
+## [0.12.119]() (18.12.2018)
 
 #### Yapılan Değişiklikler
 
 * Üniversite İsmi/Bölümü Çok mu Önemli yayınlandı.
 * Üniversite Mezunu yayınlandı.
+* İngilizce yazısı yayınlandı.
 
 ## [0.9.111]() (17.12.2018)
 
