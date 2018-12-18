@@ -20,7 +20,7 @@
   * [Lise Öğrencilerine Tavsiyeler](tavsiyeler/lisetavsiye.md)
   * [Lise Öğrencilerine Yaz Tavsiyeleri](tavsiyeler/liseyaztavsiyesi.md)
   * [Üniversite Öğrencilerine Tavsiyeler](tavsiyeler/universitetavsiye.md)
-  * [Üniversite Öğrencilerine Yaz Tavsiyeleri]()
+  * [Üniversite Öğrencilerine Yaz Tavsiyeleri](tavsiyeler/universiteyaztavsiyesi.md)
 
 * Hangi Bölüm
 
