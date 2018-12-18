@@ -1,6 +1,6 @@
 > Son Güncelleme: 18.12.2018
 
-## [0.15.125]() (18.12.2018)
+## [0.16.128]() (18.12.2018)
 
 #### Yapılan Değişiklikler
 
@@ -10,6 +10,7 @@
 * İş İmkanı yazısı yayınlandı.
 * Üniversiteye gitmeden yazısı yayınlandı.
 * Web geliştirici yazısı yayınlandı.
+* Mobil geliştirici yazısı yayınlandı.
 
 ## [0.9.111]() (17.12.2018)
 
