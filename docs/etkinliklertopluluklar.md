@@ -9,6 +9,7 @@ Bu sayfada, etkinlikler, topluluklar, slack kanalları, discord kanalları ve da
 ## Kamplar
 
 * [Linux Kampı](https://kamp.linux.org.tr/)
+* [Google Summer of Code](https://summerofcode.withgoogle.com/archive/)
 
 ## Yazılım Yarışmaları
 

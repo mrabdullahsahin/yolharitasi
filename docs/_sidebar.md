@@ -18,7 +18,7 @@
   * [Ortaokul Öğrencilerine Tavsiyeler](tavsiyeler/ortaokultavsiye.md)
   * [Ortaokul Öğrencilerine Yaz Tavsiyeleri](tavsiyeler/ortaokulyaztavsiyesi.md)
   * [Lise Öğrencilerine Tavsiyeler](tavsiyeler/lisetavsiye.md)
-  * [Lise Öğrencilerine Yaz Tavsiyeleri]()
+  * [Lise Öğrencilerine Yaz Tavsiyeleri](tavsiyeler/liseyaztavsiyesi.md)
   * [Üniversite Öğrencilerine Tavsiyeler]()
   * [Üniversite Öğrencilerine Yaz Tavsiyeleri]()
 

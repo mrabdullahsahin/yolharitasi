@@ -1,6 +1,6 @@
 > Son Güncelleme: 18.12.2018
 
-## [0.21.140]() (18.12.2018)
+## [0.22.145]() (18.12.2018)
 
 #### Yapılan Değişiklikler
 
@@ -16,6 +16,8 @@
 * Ortaokul öğrencilerine tavsiyeler yazısı yayınlandı.
 * Ortaokul öğrencilerine yaz tavsiyeleri yazıı yayınlandı.
 * Lise öğrencilerine tavsiyeler yazısı yayınlandı.
+* Lise öğrencilerine yaz tavsiyeleri yazısı yayınlandı.
+* İçerik güncellendi.
 * Hatalar giderildi.
 
 ## [0.9.111]() (17.12.2018)
