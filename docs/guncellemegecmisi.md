@@ -17,6 +17,7 @@
 * Ortaokul öğrencilerine yaz tavsiyeleri yazıı yayınlandı.
 * Lise öğrencilerine tavsiyeler yazısı yayınlandı.
 * Lise öğrencilerine yaz tavsiyeleri yazısı yayınlandı.
+* Üniversite öğrencilerine tavsiyeler yazısı yayınlandı.
 * İçerik güncellendi.
 * Hatalar giderildi.
 
