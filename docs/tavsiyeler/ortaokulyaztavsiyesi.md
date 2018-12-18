@@ -2,7 +2,7 @@
 
 ## Ortaokul Öğrencilerine Yaz Tavsiyeleri
 
-Öncelikle belirtmem gerekirse lise sınavlarına hazırlanan bir öğrenci isen öncelikle güzel bir kazanman, öyle olunca önce sınavlarını güzel bir şekilde atlat daha sonra buraya tekrar uğra :)
+Öncelikle belirtmem gerekirse lise sınavlarına hazırlanan bir öğrenci isen öncelikle güzel bir lise kazanman, öyle olunca önce sınavlarını güzel bir şekilde atlat daha sonra buraya tekrar uğra :)
 
 Yaz ayları yazılıma daha çok odaklanmak için güzel bir süreç. Üç çok güzel bir yol katedebilirsin. Peki nasıl değerlendirmek gerekir;
 

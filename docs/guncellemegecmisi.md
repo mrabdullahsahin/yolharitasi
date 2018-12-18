@@ -1,6 +1,6 @@
 > Son Güncelleme: 18.12.2018
 
-## [0.20.138]() (18.12.2018)
+## [0.21.140]() (18.12.2018)
 
 #### Yapılan Değişiklikler
 
@@ -15,6 +15,7 @@
 * Arayüz tasarımcısı ve kullanıcı deneyimi tasarımcısı yazısı eklendi.
 * Ortaokul öğrencilerine tavsiyeler yazısı yayınlandı.
 * Ortaokul öğrencilerine yaz tavsiyeleri yazıı yayınlandı.
+* Lise öğrencilerine tavsiyeler yazısı yayınlandı.
 * Hatalar giderildi.
 
 ## [0.9.111]() (17.12.2018)
