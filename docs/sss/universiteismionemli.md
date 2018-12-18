@@ -2,7 +2,7 @@
 
 ## Üniversite İsmi/Bölümü Çok mu Önemli?
 
-> Not: Bu yazı Onur Kemal Koç'un web sitesinden alınmıştır. Orjinaline [buradan'](https://www.onurkemalkoc.com/universite-ismi-bolumu-cok-mu-onemli/) ulaşabilirsiniz.
+> Not: Bu yazı Onur Kemal Koç'un web sitesinden alınmıştır. Orjinaline [buradan](https://www.onurkemalkoc.com/universite-ismi-bolumu-cok-mu-onemli/) ulaşabilirsiniz.
 
 
 Üniversite öğrencileriyle sohbet ederken çok sık rastladığım bir soru tipine cevap verme amacıyla bu blog yazısını oluşturma kararı aldım. Bu sorular başlıktan da anlayabileceğimiz üzere:

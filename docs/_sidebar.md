@@ -34,10 +34,10 @@
 
 * Sıkça Sorulan Sorular
 
-    * [Üniversite İsmi/Bölümü Çok mu Önemli?]()
+    * [Üniversite İsmi/Bölümü Çok mu Önemli?](sss/universiteismionemli.md)
     * [Bu Bölümün İş İmkanı Nedir?]()
     * [İngilizce Öğrenmeseniz Olur Mu?]()
-    * [Üniversite Mezunu Olmak Neden Bir Şey İfade Etmiyor?]()
+    * [Üniversite Mezunu Olmak Neden Bir Şey İfade Etmiyor?](sss/universitemezunu.md)
     * [Üniversiteye Gitmeden Bu İşi Yapabilir Miyim?]()
 
 * İlham Veren Hikayeler
