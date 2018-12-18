@@ -1,6 +1,6 @@
 > Son Güncelleme: 18.12.2018
 
-## [0.19.136]() (18.12.2018)
+## [0.20.138]() (18.12.2018)
 
 #### Yapılan Değişiklikler
 
@@ -14,6 +14,7 @@
 * Oyun geliştiricisi yazısı yayınlandı.
 * Arayüz tasarımcısı ve kullanıcı deneyimi tasarımcısı yazısı eklendi.
 * Ortaokul öğrencilerine tavsiyeler yazısı yayınlandı.
+* Ortaokul öğrencilerine yaz tavsiyeleri yazıı yayınlandı.
 * Hatalar giderildi.
 
 ## [0.9.111]() (17.12.2018)

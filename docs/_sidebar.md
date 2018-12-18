@@ -16,7 +16,7 @@
 * Konuma Göre Tavsiyeler
 
   * [Ortaokul Öğrencilerine Tavsiyeler](tavsiyeler/ortaokultavsiye.md)
-  * [Ortaokul Öğrencilerine Yaz Tavsiyeleri]()
+  * [Ortaokul Öğrencilerine Yaz Tavsiyeleri](tavsiyeler/ortaokulyaztavsiyesi.md)
   * [Lise Öğrencilerine Tavsiyeler]()
   * [Lise Öğrencilerine Yaz Tavsiyeleri]()
   * [Üniversite Öğrencilerine Tavsiyeler]()
