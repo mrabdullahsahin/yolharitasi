@@ -11,11 +11,11 @@
   * [Web Geliştiricisi Olmak İsteyenler için Yol Haritası](yolharitasi/webdeveloper)
   * [Mobil Uygulama Geliştiricisi Olmak İsteyenler için Yol Haritası](yolharitasi/mobiledeveloper.md)
   * [Oyun Geliştiricisi Olmak İsteyenler için Yol Haritası](yolharitasi/gamedeveloper.md)
-  * [Arayüz Tasarımcısı ve Kullanıcı Deneyimi Tasarımcısı Olmak İsteyenler için Yol Haritası](uiuxdesigner.md)
+  * [Arayüz Tasarımcısı ve Kullanıcı Deneyimi Tasarımcısı Olmak İsteyenler için Yol Haritası](yolharitasi/uiuxdesigner.md)
 
 * Konuma Göre Tavsiyeler
 
-  * [Ortaokul Öğrencilerine Tavsiyeler]()
+  * [Ortaokul Öğrencilerine Tavsiyeler](tavsiyeler/ortaokultavsiye.md)
   * [Ortaokul Öğrencilerine Yaz Tavsiyeleri]()
   * [Lise Öğrencilerine Tavsiyeler]()
   * [Lise Öğrencilerine Yaz Tavsiyeleri]()

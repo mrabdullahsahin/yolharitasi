@@ -5,4 +5,4 @@
 Arayüz Tasarımcısı, projenin arayüz tasarımını gerçekleştiren kişidir.
 Kullanıcı Deneyimi Tasarımcısı ise kullanıcının uygulamayı veya web sitesini çok etkili kullanabilmesi için gerekli düzenlemeleri yapan kişidir.
 
-Bu alanlarda ilerlemek istiyorsanı [**bu**](https://github.com/togiberlin/ui-ux-designer-roadmap) yol haritası işinize yarayacaktır.
+Bu alanlarda ilerlemek istiyorsanız [**bu**](https://github.com/togiberlin/ui-ux-designer-roadmap) yol haritası işinize yarayacaktır.

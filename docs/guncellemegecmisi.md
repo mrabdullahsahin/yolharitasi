@@ -1,6 +1,6 @@
 > Son Güncelleme: 18.12.2018
 
-## [0.18.134]() (18.12.2018)
+## [0.19.136]() (18.12.2018)
 
 #### Yapılan Değişiklikler
 
@@ -13,6 +13,8 @@
 * Mobil geliştirici yazısı yayınlandı.
 * Oyun geliştiricisi yazısı yayınlandı.
 * Arayüz tasarımcısı ve kullanıcı deneyimi tasarımcısı yazısı eklendi.
+* Ortaokul öğrencilerine tavsiyeler yazısı yayınlandı.
+* Hatalar giderildi.
 
 ## [0.9.111]() (17.12.2018)
 
