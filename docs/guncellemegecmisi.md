@@ -1,10 +1,12 @@
 > Son Güncelleme: 19.12.2018
 
-## [0.24.154]() (19.12.2018)
+## [0.26.165]() (19.12.2018)
 
 #### Yapılan Değişiklikler
 
 * Hangi Bölümü Seçmeliyim yazısı yayınlandı.
+* İlham Veren Hikayeler yazısı yayınlandı.
+* Başlamadan Önce Bilinmesi Gerekenler yazısı yayınlandı.
 * İçerik güncellendi.
 * Hatalar giderildi.
 

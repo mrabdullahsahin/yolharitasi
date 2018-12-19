@@ -36,11 +36,11 @@
 
 * İlham Veren Hikayeler
 
-    * [İlham Veren Hikayeler]()
+    * [İlham Veren Hikayeler](ilhamverenhikayeler/ilhamverenhikayeler.md)
 
 * Sizden Gelen Sorular
 
-    * [Başlamadan Önce Bilinmesi Gerekenler]()
+    * [Başlamadan Önce Bilinmesi Gerekenler](sizdengelensorular/baslamadanoncebilinmesigerekenler.md)
 
 * [Etkinlikler, Topluluklar ve Daha Fazlası](etkinliklertopluluklar.md)
 * [Tavsiye Yazılar](tavsiyeyazilar.md)

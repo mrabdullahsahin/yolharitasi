@@ -2,14 +2,15 @@
 
 ## Sormak İstediğin Bir Soru Mu Var?
 
-Soru sorarken edep ve saygı çerçevesinde sormaya özen gösterelim. Soru sormak için bu formu doldurmanız yeterli.
+Soru sorarken edep ve saygı çerçevesinde sormaya özen gösterelim. Soru sormak için [bu formu](https://goo.gl/forms/yWYmyzr4dflKJRZj2) doldurmanız yeterli.
 
 Sorularınızda yazım kurallarına dikkat etmelisiniz. Yoksa cevap alamazsınız. Ayrıca siteye göz atın lütfen. Hep aynı sorulara, aynı yanıtları vermeyelim.
 
 Soru sormadan önce bilinmesi gerekenler:
 * Soru sormadan önce bu dokümanı kesinlikle okuyunuz: [Nasıl Akıllıca Soru Sorulur](http://docs.comu.edu.tr/howto/smart-questions.html)
 * Cevaplarda imla hatası aramayınız, bizde insanız hata yapabiliriz.
-* Soru-cevap için önemli olan soruların ciddiyeti ve sorunun kendi kendini tekrar etmemesi.
+* Soru-cevap için önemli olan soruların ciddiyeti ve sorunun kendi kendini tekrar etmemesidir.
 * Azarlar şekilde "Soruya cevap versene sen", "acil cevap ver" gibi bir yaklaşımı bulunan sorular cevaplanmayacaktır.
 * Bu proje hiçbir şekilde kâr amacı gütmemektedir.
 * Bu doküman tamamen gönüllülük esasına dayanarak hazırlanıp, güncellenmektedir.
+* Sorularınız en kısa sürede cevaplanacaktır.

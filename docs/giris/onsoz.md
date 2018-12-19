@@ -1,4 +1,4 @@
-> Son Güncelleme: 15.12.2018
+> Son Güncelleme: 19.12.2018
 
 ## Önsöz
 
@@ -8,6 +8,11 @@ Bu dokümanı hazırlama fikri yaklaşık olarak Aralık 2018'de ortaya çıktı
 * Başkalarının tecrübesi
 
 Umarım bu doküman aracılığı ile hem kendimizi daha iyi geliştirebilir hem de var olan bazı değerleri daha iyi sorgulama ve farklı açılardan da bakabilmeyi öğreniriz hep birlikte.
+
+Projeye eklenmesini istediğiniz özellikleri Trello üzerinde bulunan panoya dahil olarak belirtebilir ve gelecek versiyonda gelecek olan özellikleride görebilirsiniz. Panoya [buradan](https://trello.com/b/hUf6j69F) ulaşabilirsiniz.
+
+* Bu proje gönüllülük esasına dayalı bir projedir.
+* Bu projeden herhangi bir maddi kazanç elde edilmemektedir.
 
 Sevgi ve saygılarımla,
 
