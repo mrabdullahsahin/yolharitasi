@@ -101,3 +101,6 @@ Bu sayfada, etkinlikler, topluluklar, slack kanalları, discord kanalları ve da
 
 * [Junior Talks](https://soundcloud.com/junior-talks)
 * [Swifthane](http://swifthane.com)
+* [Codefiction](https://codefiction.tech/)
+* [Lemi'nin Not Defteri](https://soundcloud.com/leminin-not-defteri)
+* [Turuncu Pasaport](https://soundcloud.com/turuncupasaport)
