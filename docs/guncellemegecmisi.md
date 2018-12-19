@@ -1,5 +1,11 @@
 > Son Güncelleme: 19.12.2018
 
+## [1.0.0]() (19.12.2018)
+
+#### Yapılan Değişiklikler
+
+* Proje herkesin kullanımına açıldı.
+
 ## [0.26.166]() (19.12.2018)
 
 #### Yapılan Değişiklikler
