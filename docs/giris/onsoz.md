@@ -2,7 +2,7 @@
 
 ## Önsöz
 
-Bu dokümanı hazırlama fikri yaklaşık olarak Aralık 2018'de ortaya çıktı. O sıralar yazılıma yeni başlayan, başlamak isteyen veya hali hazırda sektörde bulunan herkesin kafasında bu tür sorular vardı, 'Nereden Başlamalıyım?', 'Nasıl bir yol izlemeliyim?' gibi çok fazla soru mevcuttu. Hali ile herkesin sormuş olduğu soruya cevabı verebilmek için zaman ayırmak mümkün değil. Öyle olunca derli toplu herkesin katkıda bulunabileceği ve herkesin tecrübeleri aracılığı ile her daim bir sonraki nesile ulaşabilmesini istediğim bu projeyi yapmaya karar verdim. Burada ki amacım kendinizi en iyi şekilde yetiştirebilmenize vesile olmak, paylaşma ve yardımlaşma kültürünü biraz daha geliştirebilmek. Ne de olsa bizler iki şekilde kendimizi geliştirebilir ve öğrenebiliriz;
+Bu dokümanı hazırlama fikri yaklaşık olarak Mayıs 2018'de ortaya çıktı fakat hayata geçirilmes tarihi ise Aralık 2018'de nasip oldu. O sıralar yazılıma yeni başlayan, başlamak isteyen veya hali hazırda sektörde bulunan herkesin kafasında bu tür sorular vardı, 'Nereden Başlamalıyım?', 'Nasıl bir yol izlemeliyim?' gibi çok fazla soru mevcuttu. Hali ile herkesin sormuş olduğu soruya cevabı verebilmek için zaman ayırmak mümkün değil. Öyle olunca derli toplu herkesin katkıda bulunabileceği ve herkesin tecrübeleri aracılığı ile her daim bir sonraki nesile ulaşabilmesini istediğim bu projeyi yapmaya karar verdim. Burada ki amacım kendinizi en iyi şekilde yetiştirebilmenize vesile olmak, paylaşma ve yardımlaşma kültürünü biraz daha geliştirebilmek. Ne de olsa bizler iki şekilde kendimizi geliştirebilir ve öğrenebiliriz;
 
 * Kendi yaşadığımız tecrübeler
 * Başkalarının tecrübesi
