@@ -27,16 +27,3 @@ veya
 ```bash
 docsify serve
 ```
-
-Proje üzerinde örnek vermek gerekirse, giris dosyasının altında yenisayfa.md isimli bir sayfa oluşturduğunuz taktirde guncellemegecmisi.md sayfasında sizin katkıda bulunduğunuz herhangi bir gün güncelleme yapılmamış ise şu şekilde bir yapı eklemeniz gerekmektedir;
-
-### [0.1.4]() (Değişiklik yapılan günün tarihi)
-
-#### Yapılan Değişiklikler
-
-* Yeni sayfa yazısı eklendi.
-
-Burada versiyon işlemini şu şekilde yapmanız gerekmektedir;
-
-* Yeni bir sayfa eklediğiniz zaman minor(ara versiyon) değişiklik yapmanız gerekmektedir. Yani 0.2.4 şeklinde olacaktır.
-* Eğer herhangi bir hatayı düzelttiniz veya yeni bir kaynak eklemişseniz düzetlme(bug fix, build) yaptığınız için en sonda bulunan versiyonu güncellemeniz gerekmektedir. Yani 0.2.5 şeklinde olacaktır. Versiyonlama hakkında daha ayrıntılı bilgiye [buradan](http://hrzafer.com/yazilim-versiyon-numaralari) ulaşabilirsiniz.
