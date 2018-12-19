@@ -1,4 +1,12 @@
-> Son Güncelleme: 18.12.2018
+> Son Güncelleme: 19.12.2018
+
+## [0.24.154]() (19.12.2018)
+
+#### Yapılan Değişiklikler
+
+* Hangi Bölümü Seçmeliyim yazısı yayınlandı.
+* İçerik güncellendi.
+* Hatalar giderildi.
 
 ## [0.23.147]() (18.12.2018)
 

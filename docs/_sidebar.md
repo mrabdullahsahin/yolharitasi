@@ -24,13 +24,7 @@
 
 * Hangi Bölüm
 
-    * [Başlamadan Önce]()
-    * [Bilgisayar Mühendisliği]()
-    * [Yazılım Mühendisliği]()
-    * [Adli Bilişim Mühendisliği]()
-    * [Yönetim Bilişim Sistemleri]()
-    * [Bilgisayar Teknolojisi ve Bilişim Sistemleri]()
-    * [Bilişim Sistemleri Mühendisliği]()
+    * [Hangi Bölümü Seçmeliyim](hangibolum/hangibolumusecmeliyim.md)
 
 * Sıkça Sorulan Sorular
 
