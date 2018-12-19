@@ -39,3 +39,4 @@ Bu sayfada, tecrübe veya bilgi olarak olsun bizleri geliştirip katkıda buluna
 * [Yazılıma nasıl başlarım? - Burak Gür](https://medium.com/@burakgur/yazılıma-nasıl-başlarım-aaf2c0b6957a)
 * [Yazılımcı olmak isteyenlerin sık sorduğu sorulara cevaplar - Talha Ocakçı](https://medium.com/@talhaocakci/yazılımcı-olmak-isteyenlerin-sık-sorduğu-sorulara-cevaplar-d34aaabae948)
 * [Verimlik Çalışmak - 101 - Alper İskender](https://alperiskender.com/verimli-calismak-101/)
+* [Yazılımcı Adayları ve Çiçeği Burnunda Yazılımcılara Tavsiyeler Vol. 3742 - Muhammed Hilmi Koca](https://medium.com/t%C3%BCrkiye/yaz%C4%B1l%C4%B1mc%C4%B1-adaylar%C4%B1-ve-%C3%A7i%C3%A7e%C4%9Fiburnunda-yaz%C4%B1l%C4%B1mc%C4%B1lara-tavsiyeler-vol-3742-b7ecc37e6229)
