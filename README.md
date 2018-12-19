@@ -30,7 +30,7 @@ docsify serve
 
 Proje üzerinde örnek vermek gerekirse, giris dosyasının altında yenisayfa.md isimli bir sayfa oluşturduğunuz taktirde guncellemegecmisi.md sayfasında sizin katkıda bulunduğunuz herhangi bir gün güncelleme yapılmamış ise şu şekilde bir yapı eklemeniz gerekmektedir;
 
-## [0.1.4]() (Değişiklik yapılan günün tarihi)
+### [0.1.4]() (Değişiklik yapılan günün tarihi)
 
 #### Yapılan Değişiklikler
 
