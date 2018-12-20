@@ -1,4 +1,4 @@
-> Son Güncelleme: 18.12.2018
+> Son Güncelleme: 20.12.2018
 
 Bu sayfada, etkinlikler, topluluklar, slack kanalları, discord kanalları ve daha fazlası yer almaktadır. Eğer seninde önerdiğin topluluk, etkinlik veya farklı bir şey mevcut ise bu formu doldurarak bize gönderebilirsin, gerekli inceleme yapıldıktan sonra yazı burada yayınlanacaktır.
 
