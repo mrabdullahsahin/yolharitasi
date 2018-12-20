@@ -1,4 +1,12 @@
-> Son Güncelleme: 19.12.2018
+> Son Güncelleme: 20.12.2018
+
+## [1.3.29]() (20.12.2018)
+
+#### Yapılan Değişiklikler
+
+* Geç mi Kaldım sayfası güncellendi.
+* Tavsiye yazılar güncellendi.
+* Etkinlikler ve Topluluklar sayfası güncellendi.
 
 ## [1.0.4]() (19.12.2018)
 
