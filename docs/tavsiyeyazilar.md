@@ -1,4 +1,4 @@
-> Son Güncelleme: 17.12.2018
+> Son Güncelleme: 20.12.2018
 
 ## Tavsiye Yazılar
 
