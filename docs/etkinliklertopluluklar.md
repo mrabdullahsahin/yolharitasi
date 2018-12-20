@@ -68,6 +68,7 @@ Bu sayfada, etkinlikler, topluluklar, slack kanalları, discord kanalları ve da
 * [HTML Dog](http://htmldog.com)
 * [w3schools](https://www.w3schools.com)
 * [DataCamp](https://www.datacamp.com)
+* [Udacity](https://www.udacity.com)
 
 ## YouTube
 
