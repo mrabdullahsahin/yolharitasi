@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/license/mrabdullahsahin/yolharitasi.svg?style=for-the-badge)
+
 # Yol Haritası
 
 Bu projenin amacı ülkemizde yazılım alanına giriş yapmak isteyen veya bu alanın üniversitede okumak isteyen herkese bir yol haritası sunmak ve hemen hemen herkesin aklında bulunan sorulara cevap olabilmektir. Projeye eklenmesini istediğiniz değişikler ve bir sonraki versiyonda hangi özelliklerin geleceğini [buradan](https://trello.com/b/hUf6j69F) görebilirsiniz.
